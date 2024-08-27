@@ -18,7 +18,7 @@ $stok = 34;
 // $46rosi = "ahmadi pembalap";
 // Contoh: Benar
 $nama = "rian";
-$rosi46 = "rian pembalap";
+$rosi46 = "rian slebew";
 // 2)	Nama variabel yang terdiri dari dua suku kata, bisa dipisah dengan underscore (_) atau menggunakan style camelCase.
 // Contoh:
 $nama_barang = "mobil alphard iyan";
