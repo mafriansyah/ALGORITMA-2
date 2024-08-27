@@ -1,0 +1,2 @@
+$alamat = "Jl. Mawar, Jakarta";
+
