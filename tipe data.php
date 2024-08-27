@@ -16,7 +16,7 @@ $berat = 70;
 $tinggi = 175;
 
 // tipe data boolean
-$menikah = belum;
+$menikah = false;
 
 echo "Nama: $nama_lengkap<br>";
 echo "Jenis Kelamin: $jenis_kelamin<br>";
