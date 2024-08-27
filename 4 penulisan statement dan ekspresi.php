@@ -17,6 +17,6 @@ echo "<p><p>";
 
 echo "ini statement 1";
 echo "<p>ini statement 2";
-$a = $b + $c;";
 
-echo "<br><br><br><strong>by M AFRIANSYAH";
+
+echo "<br><br><br><strong>by M AFRIANSYAH<strong>";

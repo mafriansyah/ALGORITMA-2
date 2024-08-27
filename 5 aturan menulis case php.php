@@ -1,25 +1,21 @@
 <?php
 
-$nama = "M AFRIANSYAH";
-$NAMA = "RUSLI";
-$UMUR = 16;
+$nama = "m afriansyah";
+$NAMAKAWANSAYA= "rusli";
+$umur = 16;
 const INI_KONSTANTA = 123;
-$ini_variabel = 30;
-$iniJugaVariabel = 15;
+$ini_variabel = 23;
+$iniJugaVariabel = 49;
 $iniJugaVariabel;
 
 echo " ==== mencetak variabel ==== ";
-echo "<p>nama saya adalah $nama";
-echo "<p>nama kawan saya adalah $nama";
-echo "<p>umur saya adalah $umur";
+echo "<p>Nama saya adalah $nama";
+echo "<p>Nama ketua kelas adalah $NAMAKAWANSAYA";
+echo "<p>Umur saya adalah $umur";
 
-echo
+echo 
 
     "<p>coba pakai blok program",
-    "<p>nama saya adalah $nama",
-    "<p>nama kawan saya adalah adalah $nama",
-    "<p>umur saya adalah $umur";
-
-    echo "<br><br><br><strong>by M AFRIANSYAH";
-?>
-
+    "<p>Nama saya adalah $nama",
+    "<p>Nama ketua kelas adalah $NAMAKAWANSAYA",
+    "<p>Umur saya adalah $umur";
