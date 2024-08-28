@@ -15,8 +15,8 @@ $stok = 54;
 
 //1)	Awal dari nama variabel tidak boleh menggunakan angka dan simbol, kecuali underscore.
 //Contoh: ❌ Salah
-//$!nama = "Amellya";
-//$46rosi = "Amel";
+//$!nama = "rian";
+//$46rosi = "rian";
 //Contoh: ✔️ Benar
 $nama = "M AFRIANSYAH";
 $rosi46 = "rian";
